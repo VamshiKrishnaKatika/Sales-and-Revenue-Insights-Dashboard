@@ -22,7 +22,7 @@ This repository contains Power BI dashboards that visualize various business met
 - **Most Returned Product Type:** Shorts.
 
 ### 2. Customer Insights Dashboard
-![Customer Insights Dashboard](path/to/Final%20Dashboard_2.png)
+![Customer Insights Dashboard]([Final Dashboard_2.png](https://github.com/VamshiKrishnaKatika/Sales-and-Revenue-Insights-Dashboard/blob/main/Final%20Dashboard_2.png))
 
 **Description:**
 - **Unique Customers:** 17.4K
@@ -35,7 +35,7 @@ This repository contains Power BI dashboards that visualize various business met
 - **Top Customer Highlight:** Showcasing the top customer by revenue with details.
 
 ### 3. Product Performance Dashboard
-![Product Performance Dashboard](path/to/Final%20Dashboard_3.png)
+![Product Performance Dashboard]([Final Dashboard_3.png](https://github.com/VamshiKrishnaKatika/Sales-and-Revenue-Insights-Dashboard/blob/main/Final%20Dashborad_3.png))
 
 **Description:**
 - **Selected Product:** Water Bottle - 30 oz.
