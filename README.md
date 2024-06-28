@@ -6,7 +6,7 @@ This repository contains Power BI dashboards that visualize various business met
 ## Dashboard Summaries
 
 ### 1. Revenue and Orders Dashboard
-![Revenue and Orders Dashboard](Final Dashboard_1.png)
+![Revenue and Orders Dashboard]([Final Dashboard_1.png](https://github.com/VamshiKrishnaKatika/Sales-and-Revenue-Insights-Dashboard/blob/main/Final%20Dashboard_1.png))
 
 **Description:**
 - **Revenue Trending:** Visualizes the revenue trend over time with expected values and minimum/maximum value ranges.
