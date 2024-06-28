@@ -1,7 +1,7 @@
 # Sales and Revenue Insights Dashboard
-# Power BI Dashboards Overview
 
-This repository contains Power BI dashboards that visualize various business metrics and performance indicators.
+
+This repository contains Sales and Revenue Insights Dashboard that visualize various business metrics and performance indicators.
 
 Orchestrated automated **ETL workflows** using **Power Query**, reducing data processing time by 25%.
 
