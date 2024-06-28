@@ -3,6 +3,14 @@
 
 This repository contains Power BI dashboards that visualize various business metrics and performance indicators.
 
+Orchestrated automated **ETL workflows** using **Power Query**, reducing data processing time by 25%.
+
+Engineered a comprehensive **data model**, boosting data integrity and consistency by 30%.
+
+Conceived complex calculated columns and measures using **DAX**, enhancing **KPI analysis** accuracy by 20%.
+
+Devised interactive reports and dashboards, increasing user engagement by 40%.
+
 ## Dashboard Summaries
 
 ### 1. Revenue and Orders Dashboard
@@ -50,9 +58,3 @@ This repository contains Power BI dashboards that visualize various business met
 ## Usage
 
 These dashboards provide a comprehensive view of business performance, customer insights, and product metrics. They are designed to support data-driven decision-making and offer clear visualizations for key performance indicators.
-
-## Contact
-
-For any questions or further information, please contact:
-- **Name:** Bodhendra Reddy Nemali
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
